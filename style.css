@@ -1,0 +1,16 @@
+.header {
+    color: steelblue;
+    font-size: 50px;
+}
+
+.main-text {
+    color: red;
+}
+
+#paragraph {
+    color: green;
+}
+
+body {
+    color: black;
+}
